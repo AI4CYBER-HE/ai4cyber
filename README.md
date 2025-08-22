@@ -9,6 +9,9 @@ This repository hosts the **main codebase and tools of the AI4CYBER Horizon Euro
 AI4CYBER focuses on advancing cybersecurity through **AI-driven methods** for threat detection, response, resilience, and trust assurance.  
 The project delivers innovative components across intrusion detection, threat intelligence sharing, adversarial robustness, vulnerability assessment, explainability, and trust in AI.
 
+## Project Summary
+Αrtificial intelligence (AI) has lately proved to be a coin with two sides. On the one hand, it can be leveraged as a powerful defensive mechanism to improve system preparedness and response against cyber incidents and attacks, and on the other hand, it can be a formidable weapon attackers can use to damage, compromise or manipulate systems. AI4CYBER ambitions to provide an Ecosystem Framework of next-generation trustworthy cybersecurity services that leverage AI and Big Data technologies to support system developers and operators in effectively managing robustness, resilience, and dynamic response against advanced and AI-powered cyberattacks. The project will deliver a new breed of AI-driven software robustness and security testing services that significantly facilitates the testing experts work, through smarter flaw identification and code fixing automation. Moreover, the project will provide cybersecurity Services for comprehension, detection and analysis of AI-powered attacks to prepare the critical systems to be resilient against them. Incident response support by AI4CYBER will offload security operators from complex and tedious tasks offering them mechanisms to optimize the orchestration of the most appropriate combination of security protections, and continuously learn from system status and defences’ efficiency. The AI4CYBER framework will ensure fundamental rights and values-based AI technology in its services, through the integration of demonstrable explainability, fairness and technology robustness (security) capabilities in the AI4CYBER components. The ecosystem will be validated in three scenarios: i) Detection and Mitigation of AI-powered Attacks against the Energy Sector, ii) Robustness and autonomous adaptation of Banking applications to face AI-powered attacks and iii) Resilient hospital services against advanced and AI-powered cyber-physical attacks.
+
 ## Repository Structure
 The repository is organized into dedicated components:
 
@@ -37,5 +40,6 @@ This project has received funding from the European Union’s Horizon 2020 resea
 - **Coordinator:** [TECHNALIA] 
 - **Partners:** - University of Western MAcedonia (UOWM), THALES, Frontedart, Public Power Cormporation (PPC), iTTi, Unidade Local de Saude do Alentejo Cestral (ULS), Montimage, Search-LAB, EOS, PDMFC, CaixaBank, MetaMind Innovations (MINDS)
                 
+
 
 
