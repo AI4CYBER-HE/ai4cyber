@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo/AI4CYBER logo - transparent.png" alt="AI4CYBER Logo" width="300"/>
+</p>
+
 # AI4CYBER Project Repository
 
 ## Introduction
@@ -34,3 +38,4 @@ Some components are available under **open-source licenses** (e.g., Apache-2.0),
 - **Coordinator:** [TECHNALIA] 
 - **Partners:** - University of Western MAcedonia (UOWM), THALES, Frontedart, Public Power Cormporation (PPC), iTTi, Unidade Local de Saude do Alentejo Cestral (ULS), Montimage, Search-LAB, EOS, PDMFC, CaixaBank, MetaMind Innovations (MINDS)
                 
+
