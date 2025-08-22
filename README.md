@@ -29,13 +29,13 @@ The repository is organized into dedicated components:
 Each folder contains a **README.md** with a description of each component/subcomponent and links for its one.
 
 ## License
-This repository contains a mix of **open-source** and **prototype modules**.  
-Some components are available under **open-source licenses** (e.g., Apache-2.0), while others are currently research prototypes.  
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 101070450 (AI4CYBER).
 
 ## Project Information
-- **Project:** AI4CYBER (Artificial Intelligence for next generation CYBERsecurity)
+- **Project:** Artificial Intelligence for next generation CYBERsecurity (AI4CYBER)
 - **Website:** https://ai4cyber.eu  
 - **Coordinator:** [TECHNALIA] 
 - **Partners:** - University of Western MAcedonia (UOWM), THALES, Frontedart, Public Power Cormporation (PPC), iTTi, Unidade Local de Saude do Alentejo Cestral (ULS), Montimage, Search-LAB, EOS, PDMFC, CaixaBank, MetaMind Innovations (MINDS)
                 
+
 
