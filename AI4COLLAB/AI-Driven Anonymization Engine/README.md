@@ -1,5 +1,3 @@
-#  `AI4COLLAB_Anonymizer/README.md`
-
 # AI-Driven Anonymization Engine
 
 ## Overview
@@ -18,7 +16,5 @@ It ensures that shared threat intelligence complies with privacy and data protec
 
 ---
 
-##🚀 Quickstart
-1. Clone the repository:
-   ```bash
-   git clone https://gitlab.ithaca.ece.uowm.gr/ai4cyber/ai4collab_anonymizer.git
+## Repository
+🔗 [Access AI4COLLAB Anonymizer here](https://gitlab.ithaca.ece.uowm.gr/ai4cyber/ai4collab_anonymizer)  
