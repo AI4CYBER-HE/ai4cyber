@@ -11,4 +11,5 @@ AAG includes:
 The tool also provides a **user-friendly dashboard** for configuring attack parameters, launching simulations, and visualizing results, making it accessible to both researchers and practitioners.
 
 ## Repository
-🔗 [Access the AAG Tool here](https://gitlab.ithaca.ece.uowm.gr/ai4cyber/adversarial-attack-generator/-/tree/master?ref_type=headsG)  
+🔗 [Access the AAG Tool here]([https://gitlab.ithaca.ece.uowm.gr/ai4cyber/adversarila-attack-generator])  
+
