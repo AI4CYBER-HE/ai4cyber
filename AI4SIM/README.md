@@ -6,7 +6,7 @@ It provides a flexible and extensible framework that combines **fuzzing**, **adv
 
 ---
 
-## 📂 Project Structure  
+##  Project Structure  
 
 - **Smart Network Fuzzer/**  
   Network fuzzer leveraging **GANs** and the **MAIP solution** for generating realistic attack traffic.  
