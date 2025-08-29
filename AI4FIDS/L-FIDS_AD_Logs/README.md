@@ -1,8 +1,8 @@
-# StatAvg
+# L-FIDS
 
-StatAvg was developed in the context of tackling statistical heterogeneity of each node’s data, and it is based on providing global statistical parameters, such as mean, std, and variance in order the nodes to uniformly scale their data 
+User behaviour anomaly detector based on Active Directory logs. 
 
-##  Accessing StatAvg 
+##  Accessing L-FIDS 
 
-You can access the StatAvg  through the following link:  
-👉 [StatAvg on GitHub](https://github.com/adap/flower/tree/main/baselines/statavg)  
+You can access the L-FIDS  through the following link:  
+👉 [L-FIDS on GitHub]()  
