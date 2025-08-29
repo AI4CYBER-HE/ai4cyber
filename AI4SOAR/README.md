@@ -10,7 +10,7 @@ By leveraging the synergy of **Artificial Intelligence (AI)** and **SOAR**, AI4S
 
 ---
 
-## 📂 Project Structure  
+##  Project Structure  
 
 - **Shuffle Open Source/**  
   Built on the open-source **Shuffle SOAR** platform, adapted and extended with AI capabilities by MI to provide more intelligent orchestration and automation.  
