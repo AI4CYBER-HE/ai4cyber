@@ -20,7 +20,7 @@ It provides a flexible and extensible framework that combines **fuzzing**, **adv
 - **Adversarial Attack Generator (AAG)**  
   Framework for generating **white-box and black-box adversarial perturbations** (e.g., FGSM, PGD, C&W, etc.), primarily for evaluating IDS robustness.  
 
-- **KNX Smart Fuzzer**  
+- **KNXSmartFuzzer**  
   Specialized GAN-based network fuzzer targeting the **KNX protocol**.  
 
 - **LLM-based Attack Generator**  
