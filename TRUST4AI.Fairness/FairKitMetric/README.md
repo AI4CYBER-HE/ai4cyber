@@ -1,2 +1,3 @@
+# FairKitMetric
 
-# Python module for computing metric about fairness 
+Python module for computing metric about fairness 
