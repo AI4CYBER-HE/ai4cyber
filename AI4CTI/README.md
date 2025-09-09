@@ -9,34 +9,6 @@ By leveraging state-of-the-art AI models and modular processing pipelines, AI4AI
 
 ---
 
-## Project Structure
-
-The repository is organized as follows:
-
-- **CTI_Ingest/**  
- Open CTI ingestion module
-
-- **CTI_Aggregation/**  
-  Module that produces augmented (enriched) CTI about advanced attacks where the attack TTPs are ordered and proposed mitigations too. 
-
-- **CTI_assessment/**  
-  Module that verifies the consistency of the processed CTI across the different sources ingested and proposes the order of TTPs. 
-
-- **CTI_frontend/**  
-  Interfaces for visualizing CTI insights, user interaction, and system monitoring.
-
-- **Graph_processing/**  
-  Attack graph processing to extract the flow of attack steps. 
-
-- **Open-source-LLM/**  
- LLM - Llama 3.1-70B for analysing CTI reports.
-
-- **Structured_data_processing/**  
- Module for the extraction of structured data from the ingested CTI sources. 
-
-- **Unstructured_data_processing/**  
- Module for natural language processing of ingested Open CTI sources. 
-
 ## Development
 This tool has been developed by TECHNALIA
 
